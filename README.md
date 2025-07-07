@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Rahi</h1>
 
-<!--
-**devrahi999/devrahi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Learning Python to become a future AI Developer<br>
+  🎯 Focused on real-world creative projects<br>
+  📱 Building everything from my phone using <strong>Pydroid 3</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Working On:
+- Python-based Restaurant Order System
+- Learning basics of Inventory Management
+- Exploring Firebase and automation tools
+- And others
+---
+
+### 🚧 Tech I'm Learning:
+- `Python`
+- `Firebase`
+- `Git & GitHub`
+- Machine Learning (soon!)
+
+---
+
+### 🔥 Goals:
+- Master Python through projects, not just problems
+- Build useful automation tools for real-world use
+- Become a confident and creative AI Developer
+
+---
+
+### 📫 Connect With Me:
+- Email: `drahirahman9999@gmail.com`
+
+
+---
+
+> ⚡ “Always curious, always building!”
