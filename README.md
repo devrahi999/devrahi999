@@ -1,39 +1,11 @@
-<h1 align="center">👋 Hi, I'm Rahi</h1>
+# 👋 Hi there, I'm Rahi!
 
-<p align="center">
-  🚀 Learning Python to become a future AI Developer<br>
-  🎯 Focused on real-world creative projects<br>
-  📱 Building everything from my phone using <strong>Pydroid 3</strong>
-</p>
+I'm a passionate self-taught Python enthusiast exploring the world of programming.  
+Currently learning by building small projects and solving real-life problems through code.
 
----
+🚀 Goals:
+- Build creative and useful applications with Python  
+- Learn backend development and automation  
+- Become a confident Python developer through consistent practice
 
-### 🛠️ Currently Working On:
-- Python-based Restaurant Order System
-- Learning basics of Inventory Management
-- Exploring Firebase and automation tools
-- And others
----
-
-### 🚧 Tech I'm Learning:
-- `Python`
-- `Firebase`
-- `Git & GitHub`
-- Machine Learning (soon!)
-
----
-
-### 🔥 Goals:
-- Master Python through projects, not just problems
-- Build useful automation tools for real-world use
-- Become a confident and creative AI Developer
-
----
-
-### 📫 Connect With Me:
-- Email: `drahirahman9999@gmail.com`
-
-
----
-
-> ⚡ “Always curious, always building!”
+📌 Stay tuned — more projects coming soon!
